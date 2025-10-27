@@ -1,0 +1,27 @@
+Caissons Go Rolling IV (Category: Wordplay, Math)
+
+A group of students needs your help in recovering a historic cannon in the heart of Texas.
+
+==========================================================================================
+
+August 14, 2025 12:45 CDT, Near Carbon, TX
+
+We hit the gas and set off toward Carbon. By the time we got there, we saw a Red Raiders pickup truck with some tarp covering a suspiciously caisson-shaped item. That has got to be the Spirit of '02.
+
+We tailed the truck, trying to pick up whatever the driver was saying on the walkie-talkie:
+
+"Just a couple of fractions of an hour behind us now... over."
+
+then, some numbers:
+
+"81106294548892... over"
+
+"...1247593311413... continued..."
+
+Where is the Spirit of '02 headed?
+
+FORMAT: One word, capitalized. 
+
+ANSWER: Abilene
+
+SOLUTION: 81106294548892/1247593311413 has a continued fraction representation, which, in vector form, translates, in ASCII, to Abilene.

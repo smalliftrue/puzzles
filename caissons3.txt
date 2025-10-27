@@ -1,0 +1,23 @@
+Caissons Go Rolling III (Category: Wordplay, Geography, Math)
+
+A group of students needs your help in recovering a historic cannon in the heart of Texas.
+
+==========================================================================================
+
+August 14, 2025 6:15 CDT, Somewhere on the Brazos
+
+Sun's coming up now. It's no good that we know they're going to Lubbock; who knows what they'll do with '02 there. We need to intercept them before the fact, we gotta find where they're headed at this moment.
+
+Thankfully, we checked the back of the boat and found a paper with something printed on it:
+
+"Use the survey and go to next geo feature id, 2113600 OR 299564, something like that."
+
+The rest is a blur.
+
+What city is the cannon headed to now?
+
+FORMAT: One word, capitalized.
+
+ANSWER: Carbon
+
+SOLUTION: Use survey, go to next geo feature -> USGS features -> GNIS feature ID. 2113600 OR 299564 (bitwise) -> 2413164 -> Carbon, TX

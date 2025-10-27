@@ -1,0 +1,22 @@
+Caissons Go Rolling V (Category: Math, Geography, OSINT)
+
+A group of students needs your help in recovering a historic cannon in the heart of Texas.
+
+==========================================================================================
+
+August 14, 2025 3:20 CDT, Abilene, TX
+
+We saw the truck leave Abilene, and were hot on its heels going into Lubbock. They dragged the cannon on campus, took it, and started running with it. We saw them drive into campus but we didn't have identification, so we parked the car and tried to find where they went.
+
+We followed the unmistakable tracks from the caisson wheels, but they cut off. A slip of paper had fallen out of one of the thieves' pockets.
+
+"STORE THE CANNON 65 82 83 65 84 32 68 77 57 51 66 78 52 56 82 88"
+
+What building is the cannon being carted to?
+
+FORMAT: One word, capitalized. So if the building were called "Matador Hall" input "Matador"
+
+ANSWER: Gates
+
+SOLUTION: 65 82 83 65 84 -> ARSAT. Utilizing OSINT, in the context of Texas Tech University, ARSAT refers to he Amateur Radio Society at Tech. 68 77 57 51 66 78 52 56 82 88 -> DM93BN48RX. What type of coordinates would an Amateur Radio Society use? Maidenhead, or QTH coordinates. This is an incredibly detailed QTH indicator, which points to Gates Hall at Texas Tech.
+

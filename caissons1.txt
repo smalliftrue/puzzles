@@ -1,0 +1,25 @@
+Caissons Go Rolling I (Category: OSINT)
+
+A group of students needs your help in recovering a historic cannon in the heart of Texas.
+
+==========================================================================================
+
+August 13, 2025 22:45 CDT, College Station, Texas
+
+The Spirit of '02 is gone. A group of rival students took the cannon and got the hell out of here. We've got to track down the cannon before football season begins - we can't have our students watch a game without the cannon booming! 
+
+By the looks of it, they took the cannon and carted it right onto a reservoir in the Brazos River. Looks like that boat has got some sort of radar obstruction too, as we've got no signal on it. However, before it vanished from our sensors, we did manage to get a read on its elevation.
+
+LAT: ERROR
+LONG: ERROR
+ELEV: 110.29M
+
+Hopefully brazos.org is willing to hand over more data.
+
+On which reservoir of the Brazos is the Spirit of '02?
+
+Format: One word, capitalized. So if the reservoir were [Lake Matador], you would input [Matador].
+
+ANSWER: Limestone
+
+SOLUTION: The exact time indicated, as well as the reservoir height and the brazos.org clue, indicates that one should check an archive of the site. Checking the internet archive for brazos.org, they will find something cached on the evening of August 13. Converting feet to meters yields Limestone.

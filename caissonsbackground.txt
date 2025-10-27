@@ -1,0 +1,25 @@
+BACKGROUND PACKET: CAISSONS GO ROLLING (SIX PARTS)
+
+You have been commissioned to help a group of cadets at Texas A&M University recover their famous cannon, the Spirit of '02.
+
+You are allowed to use all resources at your disposal, WITH THE NOTABLE EXCEPTION OF GENERATIVE AI OR LARGE LANGUAGE MODELS (i.e. ChatGPT).
+
+The events of this puzzle are geographically restricted to the U.S. state of Texas.
+
+Puzzles are categorized for your convenience. Categories are defined as follows:
+
+OSINT: Puzzles in which a significant portion of the information should be acquired through research on the web.
+
+WORDPLAY: Puzzles in which EVERY WORD is important. There may be puns or double meanings. Every word in these puzzles' texts should be treated with care.
+
+GEOGRAPHY: Puzzles which involve, outside of OSINT, some knowledge of geographical systems.
+
+MATH: Includes cryptography. Mathematical methods, both inside conventionally used encryption and outside, will be utilized within this puzzle.
+
+Puzzles increase in difficulty, with I being the easiest and VI being the most difficult.
+
+Each puzzle contains 2 hints:
+
+HINT I is non-specific; it will generally indicate which parts of the puzzle are most important.
+
+HINT II is specific; it will likely reveal a more obscure part of a puzzle entirely.

@@ -1,0 +1,23 @@
+Caissons Go Rolling II (Category: OSINT)
+
+A group of students needs your help in recovering a historic cannon in the heart of Texas.
+
+==========================================================================================
+
+August 14, 2025 2:15 CDT, Somewhere on the Brazos
+
+We got to Limestone but the Spirit of '02 is gone. They parked their little boat on the shore and it seems like they stuffed the damn thing in a truck and are going further upstream.
+
+Whatever. We've gotta find where they're headed next, though. Given that they're our rivals, they can't be that smart, and yep, someone dropped their ID card. It's scuffed really badly and I can't seem to see most of the digits on them, but I definitely know that it's R, then eight digits with no spaces. Here's what I can tell, at least:
+
+R 6??5?1??
+
+As of what I know so far, they're definitely a football rival school in Texas.
+
+What city are they going to bring that cannon back to?
+
+Format: One word, capitalized. So if the city were [Waco, Texas], you would input [Waco].
+
+ANSWER: Lubbock
+
+SOLUTION: Searching for rivals of Texas for Texas A&M Football yields several: TCU, Baylor, Texas, SMU, Texas Tech. However, the numbers in the ID are not important; TCU has a nine-digit ID, Baylor nine digits, Texas 16 digits, SMU four dash four, Texas Tech R and 8 digits. The answer is then Texas Tech, so Lubbock.

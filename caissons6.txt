@@ -1,0 +1,45 @@
+Caissons Go Rolling VI (Category: Math, Wordplay)
+
+A group of students needs your help in recovering a historic cannon in the heart of Texas.
+
+==========================================================================================
+
+August 14, 2025 4:25 CDT, Lubbock, TX
+
+We entered the hall right before those Techies locked the gates, and they ran from the cannon. It was standing there but chained to their wagon, and we had to get it free.
+
+On it, there was a lock with a seven-letter key code, and a memory dump from the last time the lock's code was reset: a couple of lines of the Texas Tech Alma Mater, then straight up gibberish.
+
+LOCK RESET FOR CANNON HEIST
+
+FIGHTMATADORSFORTECHSONGSOFLOVEWELLSINGTOTHEEBEAR
+
+X CALIBRATION VECTOR:
+
+[-6.36600813, -5.32562935, 4.81902492, 5.40143851, -2.45583727, 2.67982631, 2.63509038] 
+
+LOG MESSAGE:
+
+"How'd you like this cannon, ya stupid Aggies? Can't even escape your little matrix of stupid traditions. Have fun unlocking this!"
+
+What's the code for the cannon?
+
+CONGRATULATIONS! You've reached the end of the hunt and helped the corps recover the Spirit of '02!
+
+FORMAT: No spaces, all caps. So if the password were "MATADOR" you would input... "MATADOR"
+
+ANSWER: DOUBLET
+
+SOLUTION: The most difficult puzzle of the chain, and fittingly so! Firstly, "little matrix..." this motivates us to inspect a matrix. 7x7 is 49, so we try to put the 49 letters of the alma mater into a matrix:
+
+FIGHTMA
+TADORSF
+ORTECHS
+ONGSOFL
+OVEWELL
+SINGTOT
+HEEBEAR
+
+Convert this matrix into ASCII.
+
+Then, multiply the ASCII by the "calibration vector" to get another set of integers. Back to text: "DOUBLET."
